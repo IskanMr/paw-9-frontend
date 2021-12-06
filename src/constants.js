@@ -1,1 +1,2 @@
-export const BASE_API_URL = "http://localhost:3000/api/employees/";
+export const BASE_API_URL =
+  "https://paw-kelompok-9-api.herokuapp.com/api/employees/";
